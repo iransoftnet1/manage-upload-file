@@ -1,0 +1,19 @@
+{
+    "name": "iransoftnet1/manage-upload-file",
+    "description": "this is test desc new pack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name Here",
+            "email": "iransoftnet.ir@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IranSoftNet\\MgUploadFile":"src/"
+        }
+    }
+}
