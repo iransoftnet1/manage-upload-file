@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "IranSoftNet\\MgUploadFile":"src/"
+            "IranSoftNet\\MgUploadFile\\":"src/"
         }
     }
 }
