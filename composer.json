@@ -15,5 +15,16 @@
         "psr-4": {
             "IranSoftNet\\MgUploadFile\\":"src/"
         }
+ ,       
+        
+        "extra": {
+    "laravel": {
+        "providers": [
+            "IranSoftNet\\MgUploadFile\\Providers\\ManageUploadFileServiceProvider"
+        ]
+    }
+}
+        
+        
     }
 }
